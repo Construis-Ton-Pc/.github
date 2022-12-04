@@ -11,7 +11,7 @@ Bon séjour et bon voyage sur le serveur !
 
 ![Banner](https://media.discordapp.net/attachments/1040715090393055362/1040725286477635714/3.png?width=1440&height=368)
 
-`🔗` Invitation du serveur: discord.gg/ctp
-`📸` Instagram: [@construistonpc](https://www.instagram.com/construistonpc/)
-`🎵` TikTok: [@construistonpc](https://www.tiktok.com/@construistonpc)
-`🌐` Site web: [Construis ton PC](https://construis-ton-pc.com/)
+* `🔗` Invitation du serveur: discord.gg/ctp
+* `📸` Instagram: [@construistonpc](https://www.instagram.com/construistonpc/)
+* `🎵` TikTok: [@construistonpc](https://www.tiktok.com/@construistonpc)
+* `🌐` Site web: [Construis ton PC](https://construis-ton-pc.com/)
